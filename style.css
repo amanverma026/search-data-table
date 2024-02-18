@@ -1,0 +1,14 @@
+#ip,
+button {
+    padding: 15px;
+    outline: none;
+    font-size: large;
+}
+
+table,
+tr,
+td,
+th {
+    border: 2px solid rgb(1, 1, 1);
+
+}
